@@ -52,8 +52,8 @@ This comprehensive checklist is designed for those completing the Penetration Te
 
 | Planned Content | Task                                               | Completed |
 | --------------- | -------------------------------------------------- | --------- |
-| Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [ ]       |
-|                | Assessment Methodologies - Footprinting and Scanning| [ ]       |
+| Penetration Testing Student Course             | Assessment Methodologies - Information Gathering   | [ X]       |
+|                | Assessment Methodologies - Footprinting and Scanning| [X ]       |
 | Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [ ]       |
 |                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [ ]       |
 |                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
