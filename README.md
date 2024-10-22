@@ -96,8 +96,8 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [ ]       |
 |        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
-|        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [ ]       |
-|        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [ ]       |
+|        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [X]       |
+|        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [X]       |
 |  Blogs   |  [Vulnerability Research 101](https://www.rezilion.com/blog/vulnerability-research-101/)| [ ]       |
 |        |  [What is a CVE?](https://www.redhat.com/en/topics/security/what-is-cve)| [ ]       |
 |        |  [Working with Exploits: Using Exploit-DB to find Exploits](https://www.hackers-arise.com/post/working-with-exploits-using-exploit-db-to-find-exploits)| [ ]       |
@@ -114,7 +114,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Host & Network Penetration Testing - System/Host Based Attack (Remaining part)   | [ ]       |
 |      | Host & Network Penetration Testing: Network-Based Attacks | [ ] | 
 | TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [ ]       |
-|    |  [Ice](https://tryhackme.com/room/ice)| [ ]       |
+|    |  [Ice](https://tryhackme.com/room/ice)| [X]       |
 |  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[ ]|
 | |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[ ]|
 | |[Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)|[ ] |
@@ -167,13 +167,13 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Host & Network Penetration Testing: Post-Exploitation   | [ ]       |
 | TryHackMe | [Windows PrivEsc](https://tryhackme.com/room/windows10privesc)   | [ ]       |
 | | [Windows Privilege Escalation](https://tryhackme.com/room/windowsprivesc20)   | [ ]       |
-| | [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)   | [ ]       |
+| | [Windows PrivEsc Arena](https://tryhackme.com/room/windowsprivescarena)   | [X]       |
 | | [Bypassing UAC](https://tryhackme.com/room/bypassinguac)   | [ ]       |
 | | [Credentials Harvesting](https://tryhackme.com/room/credharvesting)   | [ ]       |
 | | [Linux Local Enumeration](https://tryhackme.com/room/lle)   | [ ]       |
 | | [Linux PrivEsc](https://tryhackme.com/room/linuxprivesc)   | [ ]       |
 | | [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)   | [ ]       |
-| | [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)   | [ ]       |
+| | [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena)   | [X]       |
 | | [Wreath](https://tryhackme.com/room/wreath)   | [ ]       |
 | Blogs  | [OCSP: FILE TRANSFER RECIPE FOR DELICIOUS POST EXPLOITATION](https://medium.com/@dr.spitfire/ocsp-file-transfer-recipe-for-delicious-post-exploitation-832331cffd9f)   | [ ]       |
 || [Linux Privilege Escalation Techniques](https://viperone.gitbook.io/pentest-everything/everything/everything-linux/linux-privilege-escalation-techniques)   | [ ]       |
@@ -196,7 +196,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |  | [SQLMAP](https://tryhackme.com/room/sqlmap) | [ ] |
 |  | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | [ ] |
 |  | [Blog](https://tryhackme.com/room/blog)   | [ ]       |
-|  | [Vulnversity](https://tryhackme.com/room/vulnversity)   | [ ]       |
+|  | [Vulnversity](https://tryhackme.com/room/vulnversity)   | [X]       |
 |  | [Hydra](https://tryhackme.com/room/hydra)| [ ]       |
 | Blogs | [Gobuster Tutorial ](https://freecodecamp.org/news/gobuster-tutorial-find-hidden-directories-sub-domains-and-s3-buckets/)| [ ]       |
 |  | [The Ultimate SQLmap Tutorial: Master SQL Injection and Vulnerability Assessment!](https://medium.com/@cuncis/the-ultimate-sqlmap-tutorial-master-sql-injection-and-vulnerability-assessment-4babdc978e7d)| [ ]       |
