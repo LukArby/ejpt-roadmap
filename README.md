@@ -58,7 +58,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [X]       |
 |                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
 |                |  [Active Recon](https://tryhackme.com/room/activerecon)| [ ]       |
-|                |  [Nmap](https://tryhackme.com/room/furthernmap) | [ ]       |
+|                |  [Nmap](https://tryhackme.com/room/furthernmap) | [X]       |
 | Blogs           |  [Ethical Hacking: 5 Phases, Techniques, and Tools](https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e)| [ ]       |
 |                |  [Active vs Passive Recon](https://medium.com/@twistedcircuits/active-vs-passive-reconnaissance-understanding-the-difference-84d7c6d624b7)| [ ]       |
 |                |  [Understanding Reconnaissance and Foorprinting in Ethical Hacking](https://osintteam.blog/understanding-reconnaissance-and-footprinting-in-ethical-hacking-ff1a92a5a619)| [ ]       |
