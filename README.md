@@ -74,7 +74,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [X]       |
 | Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [ ]       |
-|        |  [Network Services](https://tryhackme.com/room/networkservices)| [ ]       |
+|        |  [Network Services](https://tryhackme.com/room/networkservices)| [X]       |
 |  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
 |        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [ ]       |
 |        |  [Remote port and service enumeration – nmap](https://linuxconcept.com/remote-port-and-service-enumeration-nmap/)| [ ]       |
