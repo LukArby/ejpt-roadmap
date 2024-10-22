@@ -56,7 +56,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |                | Assessment Methodologies - Footprinting and Scanning| [X ]       |
 | Tryhackme       |  [Hacker Methodology](https://tryhackme.com/room/hackermethodology)| [X]       |
 |                |  [Intro To Research](https://tryhackme.com/room/introtoresearch)| [X]       |
-|                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [ ]       |
+|                |  [Passive Recon](https://tryhackme.com/room/passiverecon)| [X]       |
 |                |  [Active Recon](https://tryhackme.com/room/activerecon)| [ ]       |
 |                |  [Nmap](https://tryhackme.com/room/furthernmap) | [X]       |
 | Blogs           |  [Ethical Hacking: 5 Phases, Techniques, and Tools](https://medium.com/@ajithchandranr/ethical-hacking-5-phases-techniques-and-tools-e760d092f70e)| [ ]       |
