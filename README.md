@@ -95,7 +95,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 |  | Assessment Methodlogies - Auditing Fundamentals | [ ] |
 |  | Host & Network Penetration Testing - System/Host Based Attack (Complete till windows part) | [ ] |
 | Tryhackme       |  [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101)| [X]       |
-|        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [ ]       |
+|        |  [Nessus](https://tryhackme.com/room/rpnessusredux)| [X]       |
 |        |  [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)| [X]       |
 |        |  [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)| [X]       |
 |  Blogs   |  [Vulnerability Research 101](https://www.rezilion.com/blog/vulnerability-research-101/)| [ ]       |
