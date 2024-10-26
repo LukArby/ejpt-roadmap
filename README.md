@@ -133,7 +133,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Host & Network Penetration Testing: The Metasploit Framework (MSF)   | [ ]       |
 | TryHackme | [Metasploit: Introduction](https://tryhackme.com/jr/metasploitintro) |[X] |
 | | [Metasploit: Exploitation](https://tryhackme.com/jr/metasploitexploitation) |[X] |
-| | [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) |[ ] |
+| | [Metasploit: Meterpreter](https://tryhackme.com/jr/meterpreter) |[X] |
 | | [HeartBleed](https://tryhackme.com/room/heartbleed) |[ ] |
 | | [Deja Vu](https://tryhackme.com/room/dejavu) |[ ] |
 | Blogs | [Metasploit Tutorial for Beginners – Basics to Advanced](https://nooblinux.com/metasploit-tutorial/) |[ ] |
