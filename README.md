@@ -75,14 +75,14 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | Penetration Testing Student Course             | Assessment Methodologies - Enumeration   | [X]       |
 | Tryhackme |  [Nmap Post Port Scan](https://tryhackme.com/room/nmap04)| [X]       |
 |        |  [Network Services](https://tryhackme.com/room/networkservices)| [X]       |
-|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [ ]       |
-|        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [ ]       |
-|        |  [Remote port and service enumeration – nmap](https://linuxconcept.com/remote-port-and-service-enumeration-nmap/)| [ ]       |
-|        |  [Enumerate SMB with Enum4linux & Smbclient](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/)| [ ]       |
-|        |  [Scanning for SMB Vulnerabilities with enum4linux](https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078)| [ ]       |
-|        |  [Nmap Scripts (NSE): The Key To Enhance Your Network Scans](https://securitytrails.com/blog/nmap-scripts-nse)| [ ]       |
-|        |  [Network Vulnerability and Scanning: Explanation of Nmap Script Engine (NSE) with Hands on Practice](https://koayyongcett.medium.com/lesson-11-network-vulnerability-and-scanning-explanation-of-nmap-script-engine-nse-with-hands-70a98311cae8)| [ ]       |
-|        |  [How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/)| [ ]       |
+|  Blogs   |  [Enumerating a new network with Nmap](https://www.redhat.com/sysadmin/enumerating-network-nmap)| [X]       |
+|        |  [Enumeration guide for beginners](https://www.hackercoolmagazine.com/enumeration-guide-for-beginners/)| [X]       |
+|        |  [Remote port and service enumeration – nmap](https://linuxconcept.com/remote-port-and-service-enumeration-nmap/)| [X]       |
+|        |  [Enumerate SMB with Enum4linux & Smbclient](https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/)| [X]       |
+|        |  [Scanning for SMB Vulnerabilities with enum4linux](https://infosecwriteups.com/scanning-for-smb-vulnerabilities-with-enum4linux-896f76d0c078)| [X]       |
+|        |  [Nmap Scripts (NSE): The Key To Enhance Your Network Scans](https://securitytrails.com/blog/nmap-scripts-nse)| [X]       |
+|        |  [Network Vulnerability and Scanning: Explanation of Nmap Script Engine (NSE) with Hands on Practice](https://koayyongcett.medium.com/lesson-11-network-vulnerability-and-scanning-explanation-of-nmap-script-engine-nse-with-hands-70a98311cae8)| [X]       |
+|        |  [How to Use Hydra  to Hack Passwords – Penetration Testing Tutorial](https://www.freecodecamp.org/news/how-to-use-hydra-pentesting-tutorial/)| [X]       |
 
 
 <hr>
