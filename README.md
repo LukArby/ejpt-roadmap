@@ -113,7 +113,7 @@ This comprehensive checklist is designed for those completing the Penetration Te
 | --------------- | -------------------------------------------------- | --------- |
 | Penetration Testing Student Course             | Host & Network Penetration Testing - System/Host Based Attack (Remaining part)   | [ ]       |
 |      | Host & Network Penetration Testing: Network-Based Attacks | [ ] | 
-| TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [ ]       |
+| TryHackMe   |  [Blue](https://tryhackme.com/room/blue)| [X]       |
 |    |  [Ice](https://tryhackme.com/room/ice)| [X]       |
 |  |[Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)|[ ]|
 | |[Linux Privilege Escalation](https://tryhackme.com/room/linprivesc)|[ ]|
